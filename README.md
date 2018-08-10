@@ -6,7 +6,7 @@ React native android app login with mediawiki API
 
  ~/Library/Android/sdk/tools
 
-# Download emulator Nexus_One_API_23
+#####  Download emulator Nexus_One_API_23 #####
 ./emulator -avd Nexus_One_API_23
 
 ##### SET ANDROID_HOME PATH #####
